@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Урок 1-2",
+        "title": "Урок 1-2",
+        "tag": "app-less1",
+        "video": ["https://www.youtube.com/embed/NtlVno8igVQ", "https://www.youtube.com/embed/U-Ivsm49b30"]
+    },
+    {
+        "name": "Урок-3",
+        "title": "Урок 3",
+        "tag": "app-less2",
+        "video": ["https://www.youtube.com/embed/P-VB74mdBA4"]
+    },
+    {
+        "name": "Урок-4",
+        "title": "Урок 4",
+        "tag": "app-less3",
+        "video": ["https://www.youtube.com/embed/ti8W7MNJUXQ"]
+    },
+    {
+        "name": "Урок-5",
+        "title": "Урок 5 | Фильтры",
+        "tag": "app-less4",
+        "video": ["https://www.youtube.com/embed/UwX73mdsu3I"]
+    },
+    {
+        "name": "Урок-6",
+        "title": "Урок 6 | Компоненты",
+        "tag": "app-less5",
+        "video": ["https://www.youtube.com/embed/ttUD4KLglL4"]        
+    },
+    {
+        "name": "Урок-7-8",
+        "title": "Урок 7-8",
+        "tag": "app-less6",
+        "video": ["https://www.youtube.com/embed/eWE_jmFML1w", "https://www.youtube.com/embed/GMl_krWYJ_E"]      
+    },
+    {
+        "name": "Урок-9",
+        "title": "Урок 9",
+        "tag": "app-less7",
+        "video": ["https://www.youtube.com/embed/VFD8kgQarw8"]
+    },
+    {
+        "name": "Урок-10",
+        "title": "Урок 10",
+        "tag": "app-less8",
+        "video": ["https://www.youtube.com/embed/RFXu_WqxJfk"]
+    }
+]
